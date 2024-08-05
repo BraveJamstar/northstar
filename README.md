@@ -6,10 +6,5 @@
 
 Welcome to Northstar!
 
-Please keep in mind that this mod is a big work in progress! If you encounter any bugs, please report them!
-
-Additionally, please remember that I am only one person, so please be patient when it comes to updates, and don't expect a fabric port anytime soon.
-
-Regardless, I sincerely appreciate that you would check out my mod. I've spent far too long working on this...
-
-Thank you for reading, and have fun!
+This is a 3d party server patch for Create Northstar. 
+This patch will fix the error you get on a forge server during startup.
